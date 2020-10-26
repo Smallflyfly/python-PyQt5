@@ -1,12 +1,9 @@
-# Default ignored files
+﻿# Default ignored files
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-<<<<<<< HEAD
-/../../../../../../:\Users\小井\Desktop\PyQt5\.idea/dataSources/
-=======
+/.idea/dataSources/
 /dataSources/
->>>>>>> 9f727d05f2d45ef981f3cb0c52e93508ebfd9763
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
